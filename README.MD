@@ -1,7 +1,7 @@
 ```ts
 fn main() {
     let skills = ["JavaScript", "TypeScript","React"];
-    let most_loved = skills[2];
+    let most_loved = skills[1];
     let mut progress = String::from("Rust");
     let isAlive = true;
     while isAlive {
